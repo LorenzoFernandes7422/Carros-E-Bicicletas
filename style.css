@@ -1,0 +1,41 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div strong {
+  color: #febe01;
+}
+
+div h2 {
+  margin: 8px;
+  padding: 4px;
+  color: white;
+}
+
+div p {
+  margin: 8px;
+  padding: 4px;
+}
+
+header {
+  text-align: center;
+}
+
+div {
+  color: #b2b2b2;
+  background-color: #111;
+  text-align: auto;
+  margin: 8px;
+  padding: 8px;
+  border-radius: 4px;
+}
+
+button {
+  margin: 8px;
+  padding: 4px;
+  color: #332200;
+  font-size: 14px;
+  background-color: #febe01;
+  border-radius: 4px;
+  border: #febe01 solid 8px;
+}
